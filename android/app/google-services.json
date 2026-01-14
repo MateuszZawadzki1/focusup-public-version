@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308618556737",
+    "project_id": "focusup-73050",
+    "storage_bucket": "focusup-73050.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308618556737:android:76a4ffa86fd7d27c2c1dc0",
+        "android_client_info": {
+          "package_name": "com.example.focus_up"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ucHmD89-c9KcqGmrG1im3bZUamF3Jr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
