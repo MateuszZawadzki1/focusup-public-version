@@ -121,4 +121,7 @@ app.*.symbols
 
 # IOS
 .DS_Store
-.lib/.DS_Store%  
+.lib/.DS_Store%
+
+# FirebaseApi
+lib/firebase_options.dart  
